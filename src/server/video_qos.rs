@@ -29,7 +29,7 @@ delay:
 
 // Constants
 pub const FPS: u32 = 60;
-pub const MIN_FPS: u32 = 1;
+pub const MIN_FPS: u32 = 45;
 pub const MAX_FPS: u32 = 120;
 pub const INIT_FPS: u32 = 60;
 
